@@ -22,10 +22,13 @@ The meeting will take place on 1st September in **The Guildhall in York**. The b
 We have now filled the agenda for the day - we had a lot of interest and it's great to highlight such diverse research (talks and posters!). We decided to go for 10 minute talks based on requests of attendees and wanting to fit as many in as possible. Posters and talks will be judged by the NorthernBUG steering committee and attendees, with prizes awarded for the top scoring.
 Information and workshop materials for the [Git training session are available here](https://github.com/alastair-droop/northernbug10-git-workshop).
 
-[Poster marking google form is available here.](https://forms.gle/EtwQJpP91DZ6KiqL8)
-[Research talk marking google form is available here.](https://forms.gle/kaNYEieCqu1NWSNGA)
+Poster and research talk marking was completed by the audience using Google Forms.
+Research talk winner - Ethan Redmond, PhD student, University of York
+Research talk runner up - Sarah Griffin, PhD student, Newcastle University
+Poster winner - Zahra Karimi, PhD student, University of Bradford
+Poster runner up - Richard Gawne, Bioinformatician, University of York
 
-If you have a suggestion you'd like us (or organisers of the next meeting) to take on board, let us know! The [NBUG10 feedback google form is here](https://forms.gle/Vg5PvJZqSkRtWjWL9).
+If you have a suggestion you'd like us (or organisers of the next meeting) to take on board, let us know!.
 
 | Time          | Speaker | Presentation | Information |
 |---------------|---------|--------------|-------------|
@@ -34,9 +37,9 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 10:35-11:00 | Alastair Droop | Using Git in Research: Introductions and Applications | Training session talk |
 | 11:00-11:50 | Alastair Droop (and assistants!) | Git: interactive tutorial | Live training session - [Instructions & Walkthrough](https://github.com/alastair-droop/northernbug10-git-workshop) |
 | 11:50-12:00 | Allyson Lister | FAIRsharing: educational resource for data and metadata standards | Training session talk 2 |
-| 12:00-13:00 | Lunch break with posters - [including submitted by online attendees](https://drive.google.com/drive/folders/1fZb0ICX_-ms-TttYag6JDPaULxg1ew2m?usp=sharing) |  | [Poster marking here.](https://forms.gle/EtwQJpP91DZ6KiqL8) |
+| 12:00-13:00 | Lunch break with posters - [including submitted by online attendees](https://drive.google.com/drive/folders/1fZb0ICX_-ms-TttYag6JDPaULxg1ew2m?usp=sharing) |  |  |
 | 13:00-13:10 | Andrew Mason | Formal welcome to NorthernBUG10! |  |
-|  | **Session 1 Talks** |  | [Research talk marking.](https://forms.gle/kaNYEieCqu1NWSNGA) |
+|  | **Session 1 Talks** |  | |
 | 13:10-13:20 | Eva Caamano | Biomarker Discovery Using Machine Learning – Crisis of Reproducibility: The Good, the Bad, and the Ugly | Core facility head |
 | 13:20-13:25 | Katarzyna Kamieniecka  | FAIR Data Stewardship in Galaxy | Bioinformatician |
 | 13:25-13:35 | Ciara Loughrey | EDIJ and Decolonisation: What are they and why does Data Management need them?  | PhD student |
@@ -45,8 +48,8 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 13:55-14:05 | Bede Constantinides | Hostile: accurate host decontamination of microbial sequences | Postdoc |
 | 14:05-14:15 | Anna White | Challenges and advances in bioinformatic analysis of ancient oral microbiomes | PhD student |
 | 14:15-14:40 | **Industry sponsor flash talks** | Novogene, Azenta, Oxford Nanopore Technologies, Source BioScience, 10x Genomics |  |
-| 14:40-15:40 | **Poster session break** | Coffee, posters, industry, networking | [Poster marking here.](https://forms.gle/EtwQJpP91DZ6KiqL8) |
-|  | **Session 2 Talks** |  | [Research talk marking.](https://forms.gle/kaNYEieCqu1NWSNGA) |
+| 14:40-15:40 | **Poster session break** | Coffee, posters, industry, networking | |
+|  | **Session 2 Talks** |  |  |
 | 15:40-15:50 | Josh Lee | Redefining the kidney cancer transcriptome through long-read RNA sequencing | Postdoc |
 | 15:50-16:00 | Jessica Buddle  | Using pooled sequencing to understand evolutionary dynamics in an evolve-and-resequence experiment | PhD student |
 | 16:00-16:10 | Peter Ashton | Disease surveillance by UKHSA | Industry |
@@ -73,6 +76,7 @@ As well as our core funding from [The Genetics Society](https://genetics.org.uk/
 Sponsorship also means we have more funds for poster and talk prizes, and we are able to offer a small number of bursaries to help with costs for those with caring responsibilities, following The Genetics Society [Carer's Award](https://genetics.org.uk/grants/carers-award/). Please contact Andrew for further details.
 
 # Feedback
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdWmZKGU27iv-83byw4GhgLC2JZLLK-KuwaM1EqvtrUEgEapg/viewform?embedded=true" width="640" height="2079" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+The feedback form was open for 7 days following the close of the meeting. If you have any further feedback, please contact Andrew directly. 
+All feedback is incredibly valuable for determining the direction of NorthernBUG, improving and keeping meetings relevant to members, and for sourcing future funding.
 
  
