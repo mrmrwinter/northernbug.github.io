@@ -21,6 +21,11 @@ The meeting will take place on 25th March 2024 in **Dorothy Fleming Lecture Thea
 
 To be confirmed
 
+- (Optional) 10.30 am to 12pm Workshop on [epi2me](https://labs.epi2me.io/)
+- 12:00 - 13:00 LUNCH and networking
+- 13:00 - 16:30 Series of short talks + invited talk on [South Yorkshire Digital Health Hub](https://www.sheffield.ac.uk/sydhh)
+- 16:30 - ..... Networking
+
 # What to expect
 
 NorthernBUG meetings are open to anyone interested in bioinformatics or its application in life science research. Meetings are free, and lunch is provided!
