@@ -30,7 +30,7 @@ Talks will be selected from those submitted. To get a flavour of the kinds of to
 - (Optional) 10.30 am to 12pm Workshop on [epi2me](https://labs.epi2me.io/)
 - 12:00 - 13:00 LUNCH and networking
 - 13:00 - 16:30 Series of short talks + invited talk on [South Yorkshire Digital Health Hub](https://www.sheffield.ac.uk/sydhh)
-- 16:30 - ..... Networking
+- 16:30 - ..... Networking at the [Showroom Cinema cafe/bar](https://www.showroomworkstation.org.uk/food-drink/default.aspx)
 
 # What to expect
 
