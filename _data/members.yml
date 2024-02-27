@@ -314,3 +314,13 @@
   twitter: EltonVasconcel8
   website: https://biologicalsciences.leeds.ac.uk/biological-sciences/staff/1300/dr-elton-vasconcelos
   interests: Control of gene expression, Omics and Bioinformatics
+
+- name: Matthew Gemmell
+  github: m-gemmell
+  institute: University of Liverpool, CGR & NEOF
+  interests: Bioinfromatics, Training, and Microbiology
+
+- name: Eva Caamano Gutierrez
+  institute: Co-Director Computational Biology Facility, University of Liverpool
+  email: Eva.Caamano-Gutierrez@liverpool.ac.uk
+  interests: Data science, omics analyses, machine learning, statistics, R teaching

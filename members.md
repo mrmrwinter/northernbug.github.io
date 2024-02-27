@@ -16,14 +16,16 @@ Please add yourself to this page! Either [sign up here](../member_registration.h
 - Krzysztof Poterlowicz, University of Bradford
 - Xènia Pérez Sitjà, University of Bradford
 - Lucy Stead, University of Leeds
+- Emily Johnson, University of Liverpool
+- Jamie Soul, University of Liverpool
+- Eva Caamano Gutierrez, University of Liverpool
+- Matthew Gemmell, University of Liverpool/NEOF
 
 ### PGR members of the Steering Committee
 
 - Jess Buddle, University of Sheffield
-- Emily Johnson, University of Liverpool
 - Deepthi Paidipati, University of Bradford
 - Michael Winter, University of Hull
-- Jamie Soul, University of Liverpool
 
 ## Current Members
 
