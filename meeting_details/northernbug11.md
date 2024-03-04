@@ -23,14 +23,25 @@ The meeting will take place on 25th March 2024 in **Dorothy Fleming Lecture Thea
 
 Poster and talk submissions are welcome from staff and students *at all career stages*. We especially welcome talks from students and early career researchers. The NorthernBUG meetings are an ideal forum to get direction from your peers in a friendly environment and establish collaborations on projects. Please feel free to present work in progress
 
-# Agenda
-
-Talks will be selected from those submitted. To get a flavour of the kinds of topics discussed you can look at [previous meetings](https://northernbug.github.io/meetings/)
+# Agenda (provisional)
 
 - (Optional) 10.30 am to 12pm Workshop on [epi2me](https://labs.epi2me.io/)
 - 12:00 - 13:00 LUNCH and networking
-- 13:00 - 16:30 Series of short talks + invited talk on [South Yorkshire Digital Health Hub](https://www.sheffield.ac.uk/sydhh)
-- 16:30 - ..... Networking at the [Showroom Cinema cafe/bar](https://www.showroomworkstation.org.uk/food-drink/default.aspx)
+- 13:00 - 14:20 Formal Introduction and talks from
+  + Matthew Gemmell
+  + Jenny Lord
+  + Matt Bawn
+  + Yun Wah Lam
+  + Lewis Quayle / Andrew Mason
+- 14:20 - 14:50 Flash talks from Industry Sponsors
+- 14:50 - 15:20 Posters with Tea and Coffee
+- 15:20 - 16:25 Talks from
+  + Lynne Barker
+  + Bailey Andrew
+  + Niamh Errington
+  + more to be confirmed
+- 16:25 - 16:55 Invited talk on [South Yorkshire Digital Health Hub](https://www.sheffield.ac.uk/sydhh)
+- 17:00 - ..... Networking at the [Showroom Cinema cafe/bar](https://www.showroomworkstation.org.uk/food-drink/default.aspx)
 
 # What to expect
 
@@ -38,6 +49,22 @@ NorthernBUG meetings are open to anyone interested in bioinformatics or its appl
 
 These meetings focus on being a user group for the benefit of all. Talks and posters do not have to be a polished and complete body of work, but can be an opportunity to discuss your research with others experienced in the area. There is always a friendly atmosphere, with discussions around techniques, training and education, as well as broader applied research areas. 
 
+# Talks
+
+## 15-minute talks
+
+- Matthew Gemmell, University of Liverpool - *Time over motivation: Comparison of the engagement and completion of synchronous and asynchronous online courses for adult learners.*
+- Jenny Lord, University of Sheffield - *Analysis of genome and transcriptome sequencing from >5,000 individuals in the 100,000 Genomes Project identifies new potential diagnoses for patients with rare disease*
+- Matt Bawn, University of Leeds - *Single Cell Genomics of Bacterial Populations*
+- Yun Wah Lam, University of Huddersfield - *In praise of "useless data": Scraping the barrel of NCI60 drug screening data for treasures*
+- Jessica Whittle, University of Manchester - *A Single-Cell Transcriptomic Atlas of Acute Myeloid Leukaemia*
+- Andrew Mason / Lewis Quayle, University of York / Sheffield Hallam University - *Bladder Cancer in the 100,000 Genomes Project: Scientific Opportunities and Data Management Challenges*
+
+## 10-minute talks
+
+- Lynne Barker, Sheffield Hallam University - *The gut Microbiome and Parkinson's: what have we learned so far.*
+- Bailey Andrew, University of Leeds - *Multi-axis graphical modelling for multi-omics data*
+- Niamh Errington, Imperial College, London - *Unsupervised Clustering of PH Using Circulating miRNA - Towards Molecular Classification of PH?*
 
 # Feedback
 
