@@ -53,18 +53,18 @@ These meetings focus on being a user group for the benefit of all. Talks and pos
 
 ## 15-minute talks
 
-- Matthew Gemmell, University of Liverpool - *Time over motivation: Comparison of the engagement and completion of synchronous and asynchronous online courses for adult learners.*
-- Jenny Lord, University of Sheffield - *Analysis of genome and transcriptome sequencing from >5,000 individuals in the 100,000 Genomes Project identifies new potential diagnoses for patients with rare disease*
-- Matt Bawn, University of Leeds - *Single Cell Genomics of Bacterial Populations*
-- Yun Wah Lam, University of Huddersfield - *In praise of "useless data": Scraping the barrel of NCI60 drug screening data for treasures*
-- Jessica Whittle, University of Manchester - *A Single-Cell Transcriptomic Atlas of Acute Myeloid Leukaemia*
-- Andrew Mason / Lewis Quayle, University of York / Sheffield Hallam University - *Bladder Cancer in the 100,000 Genomes Project: Scientific Opportunities and Data Management Challenges*
+- Matthew Gemmell, Core Facility Staff, University of Liverpool - *Time over motivation: Comparison of the engagement and completion of synchronous and asynchronous online courses for adult learners.*
+- Jenny Lord, Academic, University of Sheffield - *Analysis of genome and transcriptome sequencing from >5,000 individuals in the 100,000 Genomes Project identifies new potential diagnoses for patients with rare disease*
+- Matt Bawn, **Early-Career Researcher**, University of Leeds - *Single Cell Genomics of Bacterial Populations*
+- Yun Wah Lam, Academic, University of Huddersfield - *In praise of "useless data": Scraping the barrel of NCI60 drug screening data for treasures*
+- Jessica Whittle, **PhD Student**, University of Manchester - *A Single-Cell Transcriptomic Atlas of Acute Myeloid Leukaemia*
+- Andrew Mason / Lewis Quayle, Academic, University of York / Sheffield Hallam University - *Bladder Cancer in the 100,000 Genomes Project: Scientific Opportunities and Data Management Challenges*
 
 ## 10-minute talks
 
-- Lynne Barker, Sheffield Hallam University - *The gut Microbiome and Parkinson's: what have we learned so far.*
-- Bailey Andrew, University of Leeds - *Multi-axis graphical modelling for multi-omics data*
-- Niamh Errington, Imperial College, London - *Unsupervised Clustering of PH Using Circulating miRNA - Towards Molecular Classification of PH?*
+- Lynne Barker, Academic, Sheffield Hallam University - *The gut Microbiome and Parkinson's: what have we learned so far.*
+- Bailey Andrew, **PhD Student**, University of Leeds - *Multi-axis graphical modelling for multi-omics data*
+- Niamh Errington, **Early-Career Researcher**, Imperial College, London - *Unsupervised Clustering of PH Using Circulating miRNA - Towards Molecular Classification of PH?*
 
 ## Posters
 
