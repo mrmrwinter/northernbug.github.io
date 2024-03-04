@@ -49,7 +49,7 @@ NorthernBUG meetings are open to anyone interested in bioinformatics or its appl
 
 These meetings focus on being a user group for the benefit of all. Talks and posters do not have to be a polished and complete body of work, but can be an opportunity to discuss your research with others experienced in the area. There is always a friendly atmosphere, with discussions around techniques, training and education, as well as broader applied research areas. 
 
-# Talks
+# Research Presentations
 
 ## 15-minute talks
 
@@ -65,6 +65,17 @@ These meetings focus on being a user group for the benefit of all. Talks and pos
 - Lynne Barker, Sheffield Hallam University - *The gut Microbiome and Parkinson's: what have we learned so far.*
 - Bailey Andrew, University of Leeds - *Multi-axis graphical modelling for multi-omics data*
 - Niamh Errington, Imperial College, London - *Unsupervised Clustering of PH Using Circulating miRNA - Towards Molecular Classification of PH?*
+
+## Posters
+
+- Dora Marcec, University of Huddersfield - *Mechanisms of transcriptional regulation of gene expression following CD40 ligation in carcinoma cells.*
+- Abdullah Alsulaiman, University of Sheffield - *Fish Population Diversity Assessment in the Eastern Province of Saudi Arabia, using Environmental DNA (eDNA)*
+- Jorge Buenabad-Chavez, University of York - *Automated Management of AWS Instances for Training on 'Omics Data Analysis*
+- Segun Orimoloye, Sheffield Hallam University - *Framework for assisted analysis of MD simulations of antimicrobial peptides*
+- Sotiria Boutsi, Harper Adams University - *Exploring bacterial genomes to understand insect speciation*
+- Samrein Ahmed, Sheffield Hallam University - *ShcD-CH2 domain S162L mutation activates the JAK/STAT pathway: A study based on publicly available data*
+- Morgan Thomas, University of Leeds - *A Machine Learning Model for Estimating Purity of Glioblastoma Tumours from Bulk RNA-seq Data.*
+- Daphne Ezer, University of York - *An Arabidopsis gene network using a single cell RNA-seq developmental atlas: a case-study of research-based teaching*
 
 # Feedback
 
