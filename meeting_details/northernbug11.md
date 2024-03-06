@@ -35,12 +35,12 @@ Poster and talk submissions are welcome from staff and students *at all career s
   + Lewis Quayle / Andrew Mason
 - 14:20 - 14:50 Flash talks from Industry Sponsors
 - 14:50 - 15:20 Posters with Tea and Coffee
-- 15:20 - 16:25 Talks from
+- 15:20 - 15:50 Invited talk on [South Yorkshire Digital Health Hub](https://www.sheffield.ac.uk/sydhh)
+- 16:05 - 16:55 Talks from
   + Lynne Barker
   + Bailey Andrew
   + Niamh Errington
   + more to be confirmed
-- 16:25 - 16:55 Invited talk on [South Yorkshire Digital Health Hub](https://www.sheffield.ac.uk/sydhh)
 - 17:00 - ..... Networking at the [Showroom Cinema cafe/bar](https://www.showroomworkstation.org.uk/food-drink/default.aspx)
 
 # What to expect
@@ -76,6 +76,7 @@ These meetings focus on being a user group for the benefit of all. Talks and pos
 - Samrein Ahmed, Sheffield Hallam University - *ShcD-CH2 domain S162L mutation activates the JAK/STAT pathway: A study based on publicly available data*
 - Morgan Thomas, University of Leeds - *A Machine Learning Model for Estimating Purity of Glioblastoma Tumours from Bulk RNA-seq Data.*
 - Daphne Ezer, University of York - *An Arabidopsis gene network using a single cell RNA-seq developmental atlas: a case-study of research-based teaching*
+- Leigh Roberts, University of Huddersfield, *Analysis of Codon Usage Bias in Metazoa using Bioinformatical Methods*
 
 # Feedback
 
