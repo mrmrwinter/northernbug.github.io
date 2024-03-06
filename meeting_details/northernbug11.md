@@ -32,14 +32,16 @@ Poster and talk submissions are welcome from staff and students *at all career s
   + Jenny Lord
   + Matt Bawn
   + Yun Wah Lam
+  + Jessica Whittle
   + Lewis Quayle / Andrew Mason
 - 14:20 - 14:50 Flash talks from Industry Sponsors
 - 14:50 - 15:20 Posters with Tea and Coffee
 - 15:20 - 15:50 Invited talk on [South Yorkshire Digital Health Hub](https://www.sheffield.ac.uk/sydhh)
-- 16:05 - 16:55 Talks from
+- 15:50 - 16:55 Talks from
   + Lynne Barker
   + Bailey Andrew
   + Niamh Errington
+  + Eleanor Woodward
   + more to be confirmed
 - 17:00 - ..... Networking at the [Showroom Cinema cafe/bar](https://www.showroomworkstation.org.uk/food-drink/default.aspx)
 
@@ -65,6 +67,7 @@ These meetings focus on being a user group for the benefit of all. Talks and pos
 - Lynne Barker, Academic, Sheffield Hallam University - *The gut Microbiome and Parkinson's: what have we learned so far.*
 - Bailey Andrew, **PhD Student**, University of Leeds - *Multi-axis graphical modelling for multi-omics data*
 - Niamh Errington, **Early-Career Researcher**, Imperial College, London - *Unsupervised Clustering of PH Using Circulating miRNA - Towards Molecular Classification of PH?*
+- Eleanor	Woodward, **PhD Student**, University of Newcastle, *Characterisation of Isochromosome 17q in Childhood Cancer with Long-read Sequencing*
 
 ## Posters
 
