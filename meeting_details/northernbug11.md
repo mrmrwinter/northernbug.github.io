@@ -81,6 +81,7 @@ These meetings focus on being a user group for the benefit of all. Talks and pos
 - Morgan Thomas, University of Leeds - *A Machine Learning Model for Estimating Purity of Glioblastoma Tumours from Bulk RNA-seq Data.*
 - Daphne Ezer, University of York - *An Arabidopsis gene network using a single cell RNA-seq developmental atlas: a case-study of research-based teaching*
 - Leigh Roberts, University of Huddersfield, *Analysis of Codon Usage Bias in Metazoa using Bioinformatical Methods*
+- Maria Miller, 21st Century Educators, *Genetic connections between multi-language speakers/learners and their direct descendants*
 
 # Feedback
 
