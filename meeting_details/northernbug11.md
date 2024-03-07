@@ -26,23 +26,23 @@ Poster and talk submissions are welcome from staff and students *at all career s
 # Agenda (provisional)
 
 - (Optional) 10.30 am to 12pm Workshop on [epi2me](https://labs.epi2me.io/)
-- 12:00 - 13:00 LUNCH and networking
-- 13:00 - 14:20 Formal Introduction and talks from
-  + Matthew Gemmell
-  + Jenny Lord
-  + Matt Bawn
-  + Yun Wah Lam
-  + Jessica Whittle
-  + Lewis Quayle / Andrew Mason
+- 12:00 - 13:00 LUNCH, posters (see below) and networking
+- 13:00 - 14:20 Formal Introduction and talks from (order to be confirmed)
+  + Matthew Gemmell, Time over motivation: Comparison of the engagement and completion of synchronous and asynchronous online courses for adult learners.
+  + Jenny Lord, Analysis of genome and transcriptome sequencing from >5,000 individuals in the 100,000 Genomes Project identifies new potential diagnoses for patients with rare disease
+  + Matt Bawn, Single Cell Genomics of Bacterial Populations
+  + Yun Wah Lam, In praise of "useless data": Scraping the barrel of NCI60 drug screening data for treasures
+  + Jessica Whittle, A Single-Cell Transcriptomic Atlas of Acute Myeloid Leukaemia
+  + Lewis Quayle / Andrew Mason, Bladder Cancer in the 100,000 Genomes Project: Scientific Opportunities and Data Management Challenges
 - 14:20 - 14:50 Flash talks from Industry Sponsors
 - 14:50 - 15:20 Posters with Tea and Coffee
 - 15:20 - 15:50 Invited talk on [South Yorkshire Digital Health Hub](https://www.sheffield.ac.uk/sydhh)
-- 15:50 - 16:55 Talks from
-  + Lynne Barker
-  + Bailey Andrew
-  + Niamh Errington
-  + Eleanor Woodward
-  + more to be confirmed
+- 15:50 - 16:55 Talks from (order to be confirmed)
+  + Lynne Barker, The gut Microbiome and Parkinson's: what have we learned so far.
+  + Bailey Andrew, Multi-axis graphical modelling for multi-omics data
+  + Niamh Errington, Unsupervised Clustering of PH Using Circulating miRNA - Towards Molecular Classification of PH?
+  + Eleanor Woodward, Characterisation of Isochromosome 17q in Childhood Cancer with Long-read Sequencing
+  + Katarzyna	Kamieniecka, Empowering Researchers with FAIR Training
 - 17:00 - ..... Networking at the [Showroom Cinema cafe/bar](https://www.showroomworkstation.org.uk/food-drink/default.aspx)
 
 # What to expect
@@ -68,6 +68,7 @@ These meetings focus on being a user group for the benefit of all. Talks and pos
 - Bailey Andrew, **PhD Student**, University of Leeds - *Multi-axis graphical modelling for multi-omics data*
 - Niamh Errington, **Early-Career Researcher**, Imperial College, London - *Unsupervised Clustering of PH Using Circulating miRNA - Towards Molecular Classification of PH?*
 - Eleanor	Woodward, **PhD Student**, University of Newcastle, *Characterisation of Isochromosome 17q in Childhood Cancer with Long-read Sequencing*
+- Katarzyna	Kamieniecka, **Early-Career Researcher**, University of Bradford, *Empowering Researchers with FAIR Training*
 
 ## Posters
 
