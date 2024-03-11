@@ -83,7 +83,7 @@ These meetings focus on being a user group for the benefit of all. Talks and pos
 - Will Claydon, University of York, *Utilising Environmental Variability for Biomass Forecasting in Aeroponic Vertical Farms*
 - Daphne Ezer, University of York - *An Arabidopsis gene network using a single cell RNA-seq developmental atlas: a case-study of research-based teaching*
 - Leigh Roberts, University of Huddersfield, *Analysis of Codon Usage Bias in Metazoa using Bioinformatical Methods*
-- Maria Miller, 21st Century Educators, *Genetic connections between multi-language speakers/learners and their direct descendants*
+- Adam Lee, University College London, *Learn To Discover: An online training course in Python programming, data science and machine learning, tailored for health, disease and bioscience.*
 
 # Feedback
 
