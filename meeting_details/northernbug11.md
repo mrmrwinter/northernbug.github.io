@@ -48,19 +48,22 @@ NorthernBUG meetings are open to anyone interested in bioinformatics or its appl
 
 These meetings focus on being a user group for the benefit of all. Talks and posters do not have to be a polished and complete body of work, but can be an opportunity to discuss your research with others experienced in the area. There is always a friendly atmosphere, with discussions around techniques, training and education, as well as broader applied research areas. 
 
-## Posters
+## Posters 
 
-- Dora Marcec, University of Huddersfield - *Mechanisms of transcriptional regulation of gene expression following CD40 ligation in carcinoma cells.*
-- Abdullah Alsulaiman, University of Sheffield - *Fish Population Diversity Assessment in the Eastern Province of Saudi Arabia, using Environmental DNA (eDNA)*
+(**ECR** are eligible for poster prize)
+
+- **Dora Marcec, University of Huddersfield - *Mechanisms of transcriptional regulation of gene expression following CD40 ligation in carcinoma cells.***
+- **Abdullah Alsulaiman, University of Sheffield - *Fish Population Diversity Assessment in the Eastern Province of Saudi Arabia, using Environmental DNA (eDNA)***
+- **Segun Orimoloye, Sheffield Hallam University - *Framework for assisted analysis of MD simulations of antimicrobial peptides***
+- **Sotiria Boutsi, Harper Adams University - *Exploring bacterial genomes to understand insect speciation***
+- **Morgan Thomas, University of Leeds - *A Machine Learning Model for Estimating Purity of Glioblastoma Tumours from Bulk RNA-seq Data.***
+- **Will Claydon, University of York, *Utilising Environmental Variability for Biomass Forecasting in Aeroponic Vertical Farms***
+- **Leigh Roberts, University of Huddersfield, *Analysis of Codon Usage Bias in Metazoa using Bioinformatical Methods***
+- **Mwenda Rintari, University of York, *Clonal Seeding in Urothelial Carcinoma***
 - Pasky Miranda, University of York - *Automated Management of AWS Instances for Training on 'Omics Data Analysis*
 - Nick Peake, Sheffield Hallam, *Extracellular vesicles as a cross-kingdom system of gut microbiome regulation*
-- Segun Orimoloye, Sheffield Hallam University - *Framework for assisted analysis of MD simulations of antimicrobial peptides*
-- Sotiria Boutsi, Harper Adams University - *Exploring bacterial genomes to understand insect speciation*
 - Samrein Ahmed, Sheffield Hallam University - *ShcD-CH2 domain S162L mutation activates the JAK/STAT pathway: A study based on publicly available data*
-- Morgan Thomas, University of Leeds - *A Machine Learning Model for Estimating Purity of Glioblastoma Tumours from Bulk RNA-seq Data.*
-- Will Claydon, University of York, *Utilising Environmental Variability for Biomass Forecasting in Aeroponic Vertical Farms*
 - Daphne Ezer, University of York - *An Arabidopsis gene network using a single cell RNA-seq developmental atlas: a case-study of research-based teaching*
-- Leigh Roberts, University of Huddersfield, *Analysis of Codon Usage Bias in Metazoa using Bioinformatical Methods*
 - Adam Lee, University College London, *Learn To Discover: An online training course in Python programming, data science and machine learning, tailored for health, disease and bioscience.*
 
 # Feedback
