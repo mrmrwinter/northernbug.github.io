@@ -27,22 +27,21 @@ Poster and talk submissions are welcome from staff and students *at all career s
 
 - (Optional) 10.30 am to 12pm Workshop on [epi2me](https://labs.epi2me.io/)
 - 12:00 - 13:00 LUNCH, posters (see below) and networking
-- 13:00 - 14:20 Formal Introduction and talks from (order to be confirmed)
-  + Matthew Gemmell, Time over motivation: Comparison of the engagement and completion of synchronous and asynchronous online courses for adult learners.
-  + Jenny Lord, Analysis of genome and transcriptome sequencing from >5,000 individuals in the 100,000 Genomes Project identifies new potential diagnoses for patients with rare disease
-  + Matt Bawn, Single Cell Genomics of Bacterial Populations
-  + Yun Wah Lam, In praise of "useless data": Scraping the barrel of NCI60 drug screening data for treasures
-  + Jessica Whittle, A Single-Cell Transcriptomic Atlas of Acute Myeloid Leukaemia
+- 13:00 - 14:20 Formal Introduction and talks from 
+  + (15 minutes) Matt Bawn, Single Cell Genomics of Bacterial Populations
+  + (15 minutes) Jessica Whittle, A Single-Cell Transcriptomic Atlas of Acute Myeloid Leukaemia
+  + (10 minutes) Bailey Andrew, Multi-axis graphical modelling for multi-omics data
+  + (10 minutes) Niamh Errington, Unsupervised Clustering of PH Using Circulating miRNA - Towards Molecular Classification of PH?
+  + (10 minutes) Lynne Barker, The gut Microbiome and Parkinson's: what have we learned so far.
+  + (10 minutes) Katarzyna	Kamieniecka, Empowering Researchers with FAIR Training
+- 14:15 - 14:40 Flash talks from Industry Sponsors
+- 14:40 - 15:20 Posters with Tea and Coffee
+- 15:20 - 15:50 Invited talk on [South Yorkshire Digital Health Hub](https://www.sheffield.ac.uk/sydhh) from Prof. Steve Haake
+- 15:50 - 16:55 15 minute talks from 
   + Lewis Quayle / Andrew Mason, Bladder Cancer in the 100,000 Genomes Project: Scientific Opportunities and Data Management Challenges
-- 14:20 - 14:50 Flash talks from Industry Sponsors
-- 14:50 - 15:20 Posters with Tea and Coffee
-- 15:20 - 15:50 Invited talk on [South Yorkshire Digital Health Hub](https://www.sheffield.ac.uk/sydhh)
-- 15:50 - 16:55 Talks from (order to be confirmed)
-  + Lynne Barker, The gut Microbiome and Parkinson's: what have we learned so far.
-  + Bailey Andrew, Multi-axis graphical modelling for multi-omics data
-  + Niamh Errington, Unsupervised Clustering of PH Using Circulating miRNA - Towards Molecular Classification of PH?
-  + Eleanor Woodward, Characterisation of Isochromosome 17q in Childhood Cancer with Long-read Sequencing
-  + Katarzyna	Kamieniecka, Empowering Researchers with FAIR Training
+  + Jenny Lord, Analysis of genome and transcriptome sequencing from >5,000 individuals in the 100,000 Genomes Project identifies new potential diagnoses for patients with rare disease
+  + Yun Wah Lam, In praise of "useless data": Scraping the barrel of NCI60 drug screening data for treasures
+  + Matthew Gemmell, Time over motivation: Comparison of the engagement and completion of synchronous and asynchronous online courses for adult learners.
 - 17:00 - ..... Networking at the [Showroom Cinema cafe/bar](https://www.showroomworkstation.org.uk/food-drink/default.aspx)
 
 # What to expect
