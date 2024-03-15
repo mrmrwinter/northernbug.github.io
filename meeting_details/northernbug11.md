@@ -27,7 +27,7 @@ Poster and talk submissions are welcome from staff and students *at all career s
 
 - (Optional) 10.30 am to 12pm Workshop on [epi2me](https://labs.epi2me.io/)
 - 12:00 - 13:00 LUNCH, posters (see below) and networking
-- 13:00 - 14:20 Formal Introduction and talks from 
+- 13:00 - 14:20 **Session 1**; Formal Introduction and talks from 
   + (15 minutes) Matt Bawn, Single Cell Genomics of Bacterial Populations
   + (15 minutes) Jessica Whittle, A Single-Cell Transcriptomic Atlas of Acute Myeloid Leukaemia
   + (10 minutes) Bailey Andrew, Multi-axis graphical modelling for multi-omics data
@@ -37,7 +37,7 @@ Poster and talk submissions are welcome from staff and students *at all career s
 - 14:15 - 14:40 Flash talks from Industry Sponsors
 - 14:40 - 15:20 Posters with Tea and Coffee
 - 15:20 - 15:50 Invited talk on [South Yorkshire Digital Health Hub](https://www.sheffield.ac.uk/sydhh) from Prof. Steve Haake
-- 15:50 - 16:55 15 minute talks from 
+- 15:50 - 16:50 **Session 2**; 15 minute talks from 
   + Lewis Quayle / Andrew Mason, Bladder Cancer in the 100,000 Genomes Project: Scientific Opportunities and Data Management Challenges
   + Jenny Lord, Analysis of genome and transcriptome sequencing from >5,000 individuals in the 100,000 Genomes Project identifies new potential diagnoses for patients with rare disease
   + Yun Wah Lam, In praise of "useless data": Scraping the barrel of NCI60 drug screening data for treasures
