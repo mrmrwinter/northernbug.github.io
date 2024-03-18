@@ -35,7 +35,7 @@ Poster and talk submissions are welcome from staff and students *at all career s
 - 14:15 - 14:40 Flash talks from Industry Sponsors
 - 14:40 - 15:20 Posters with Tea and Coffee
 - 15:20 - 15:50 Invited talk on [South Yorkshire Digital Health Hub](https://www.sheffield.ac.uk/sydhh) from Prof. Steve Haake
-- 15:50 - 16:50 **Session 2**; 15 minute talks from 
+- 15:50 - 16:50 **Session 2** chaired by Lewis Quayle; 15 minute talks from 
   + Lewis Quayle / Andrew Mason, Academic, University of York / Sheffield Hallam University. *Bladder Cancer in the 100,000 Genomes Project: Scientific Opportunities and Data Management Challenges*
   + Jenny Lord, Academic, University of Sheffield . *Analysis of genome and transcriptome sequencing from >5,000 individuals in the 100,000 Genomes Project identifies new potential diagnoses for patients with rare disease*
   + Yun Wah Lam, Academic, University of Huddersfield. *In praise of "useless data": Scraping the barrel of NCI60 drug screening data for treasures*
