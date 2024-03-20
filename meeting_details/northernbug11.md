@@ -23,6 +23,7 @@ Poster and talk submissions are welcome from staff and students *at all career s
 
 # Agenda (provisional)
 
+- 10:00 - 10:30 Registration opens
 - (Optional) 10.30 am to 12pm Workshop on [epi2me](https://labs.epi2me.io/)
 - 12:00 - 13:00 LUNCH, posters (see below) and networking
 - 13:00 - 14:20 **Session 1** Chaired by Helen Hipperson; Formal Introduction and talks from 
