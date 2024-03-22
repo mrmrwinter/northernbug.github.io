@@ -25,8 +25,8 @@ Poster and talk submissions are welcome from staff and students *at all career s
 
 - 10:00 - 10:30 Registration opens
 - (Optional) 10.30 am to 12pm Workshop on [epi2me](https://labs.epi2me.io/)
-- 12:00 - 13:00 LUNCH, posters (see below) and networking
-- 13:00 - 14:20 **Session 1** Chaired by Helen Hipperson; Formal Introduction and talks from 
+- 12:00 - 13:00 LUNCH, registration, posters (see below) and networking
+- 13:00 - 14:15 **Session 1** Chaired by Helen Hipperson; Formal Introduction and talks from 
   + (15 minutes) Matt Bawn, **Early-Career Researcher**, University of Leeds. *Single Cell Genomics of Bacterial Populations*
   + (15 minutes) Jessica Whittle, **PhD Student**, University of Manchester. *A Single-Cell Transcriptomic Atlas of Acute Myeloid Leukaemia*
   + (10 minutes) Bailey Andrew, **PhD Student**, University of Leeds. *Multi-axis graphical modelling for multi-omics data*
