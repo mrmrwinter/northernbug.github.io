@@ -23,7 +23,7 @@ Poster and talk submissions are welcome from staff and students *at all career s
 
 # Sponsors
 
-![NBU11 Sponsors](/assets/NBUG10sponsors.png)
+![NBU11 Sponsors](/assets/NBUG11_sponsors.PNG)
 
 # Agenda (provisional)
 
