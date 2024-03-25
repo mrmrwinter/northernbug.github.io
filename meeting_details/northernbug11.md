@@ -65,10 +65,10 @@ These meetings focus on being a user group for the benefit of all. Talks and pos
 - **Will Claydon, University of York, *Utilising Environmental Variability for Biomass Forecasting in Aeroponic Vertical Farms***
 - **Leigh Roberts, University of Huddersfield, *Analysis of Codon Usage Bias in Metazoa using Bioinformatical Methods***
 - **Mwenda Rintari, University of York, *Clonal Seeding in Urothelial Carcinoma***
+- **Bioinformatics Msc Students, University of York - *Since AraBOXcis - Updating Ara-box-cis with scRNA-seq***
+- **Rawan Maani, Sheffield Hallam, *Colorectal cancer-extracellular vesicles transcriptomally reprogramme E.coli***
 - Pasky Miranda, University of York - *Automated Management of AWS Instances for Training on 'Omics Data Analysis*
-- Nick Peake, Sheffield Hallam, *Extracellular vesicles as a cross-kingdom system of gut microbiome regulation*
 - Samrein Ahmed, Sheffield Hallam University - *ShcD-CH2 domain S162L mutation activates the JAK/STAT pathway: A study based on publicly available data*
-- Daphne Ezer, University of York - *An Arabidopsis gene network using a single cell RNA-seq developmental atlas: a case-study of research-based teaching*
 - Adam Lee, University College London, *Learn To Discover: An online training course in Python programming, data science and machine learning, tailored for health, disease and bioscience.*
 
 # Feedback
