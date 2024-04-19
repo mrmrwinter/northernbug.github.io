@@ -25,6 +25,12 @@ Poster and talk submissions are welcome from staff and students *at all career s
 
 ![NBU11 Sponsors](/assets/NBUG11_sponsors.PNG)
 
+# Poster / talk prizes
+
+- Congratulations to Jess Whittle from University of Manchester for winning the Best Talk Prize sponsored by Novogene for her talk *A Single-Cell Transcriptomic Atlas of Acute Myeloid Leukaemia*
+
+- Congratulations to Morgan Thomas for the winning the best poster prize sponsored by GeneWiz for the poster *A Machine Learning Model for Estimating Purity of Glioblastoma Tumours from Bulk RNA-seq Data*
+
 # Agenda (provisional)
 
 - 10:00 - 10:30 Registration opens
