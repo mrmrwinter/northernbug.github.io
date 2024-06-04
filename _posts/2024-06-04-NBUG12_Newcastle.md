@@ -4,6 +4,19 @@ author: Rachel Queen
 title: Newcastle University is hosting NorthernBug 12
 ---
 
+---
+layout: meeting
+author: Rachel Queen and Ann Hedley
+title: NorthernBug 12
+date: 28th June, 2024
+institute: Newcastle University
+postcode: NE1 4EP
+address: Biomedicine West Wing, Life Science Centre International Centre for Life Times Square, Newcastle upon Tyne
+permalink: 2024-06-04-NBUG12_Newcastle 
+---
+
+# General
+
 We are thrilled to announce next NorthernBUG meeting which will be held on June 28th at the Centre for Life in Newcastle-upon-Tyne. The Centre For Life is about 4 minutes walk from Newcastle Central Station.
 
 The meeting will include a talk from Dr Simon Cockell: 'Putting the "space" into spatial transcriptomics: Lessons from computational geography' and an optional morning Workshop: 'From tissue to FASTQ: Understanding core technologies for spatial transcriptomics'.
@@ -14,6 +27,10 @@ Prizes: To recognize exceptional contributions, we will award £100 for the best
 
 Limited Spaces: Please note that spaces for this event are limited. Priority will be given to presenters and those who present or register early. Don't miss out on the chance to be a part of this enriching experience.
 
-Registration: Secure your spot and register now by following this registration link. [open!](https://forms.office.com/e/PCM1ikdWU1)
+# Agenda
+TBC
 
-We look forward to your participation and to the vibrant discussions that will arise from this meeting. Let's make this NorthernBUG event a memorable one!
+# Registration
+Secure your spot and register now by following this registration link. [open!](https://forms.office.com/e/PCM1ikdWU1)
+
+
