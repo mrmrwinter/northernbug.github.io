@@ -1,10 +1,4 @@
 ---
-layout: post
-author: Rachel Queen
-title: Newcastle University is hosting NorthernBug 12
----
-
----
 layout: meeting
 author: Rachel Queen and Ann Hedley
 title: NorthernBug 12
