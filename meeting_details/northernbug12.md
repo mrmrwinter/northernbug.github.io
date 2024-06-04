@@ -6,7 +6,7 @@ date: 28th June, 2024
 institute: Newcastle University
 postcode: NE1 4EP
 address: Biomedicine West Wing, Life Science Centre International Centre for Life Times Square, Newcastle upon Tyne
-permalink: NBUG12_Newcastle 
+permalink: northernbug12
 ---
 
 # General
