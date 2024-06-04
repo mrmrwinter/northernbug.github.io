@@ -21,6 +21,8 @@ Prizes: To recognize exceptional contributions, we will award £100 for the best
 
 Limited Spaces: Please note that spaces for this event are limited. Priority will be given to presenters and those who present or register early. Don't miss out on the chance to be a part of this enriching experience.
 
+![Northernbug12](/assets/northernBUG12.png)
+
 # Agenda
 TBC
 
