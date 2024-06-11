@@ -46,4 +46,4 @@ Limited Spaces: Please note that spaces for this event are limited. Priority wil
 
 
 # Registration
-Secure your spot and register now by following this registration link. [open!](https://forms.office.com/e/PCM1ikdWU1)
+Secure your spot and register now by following this [registration link](https://forms.office.com/e/PCM1ikdWU1)
