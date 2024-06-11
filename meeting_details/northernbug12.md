@@ -37,7 +37,7 @@ Limited Spaces: Please note that spaces for this event are limited. Priority wil
 |    | Danielle Taylor - University of York  | TBC  | |
 | 14.45 - 15.15 | **Tea/coffee**  | | |
 | 15.15 - 16.50 | **Short talks 2** | | |
-|    | Xingna Zhang - University of Liverpool  Evaluating the impact of using mobile vaccination units to increase COVID-19 vaccination uptake in Cheshire and Merseyside, UK: a synthetic control analysis | |
+|    | Xingna Zhang - University of Liverpool | Evaluating the impact of using mobile vaccination units to increase COVID-19 vaccination uptake in Cheshire and Merseyside, UK: a synthetic control analysis | |
 |    | Arief Gusnanto - University of Leeds  | The use of sparse correlation matrices in genomics analysis  | |
 |    | Matthew Teasdale - Newcastle University  | Hiding in plain sight: the genomic analysis of manuscripts | |
 |    | Shoumit Dey - University of York  |   Spatial multi-omics identifies acyltransferase activity associated with granulomas. | |
