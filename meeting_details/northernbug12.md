@@ -30,13 +30,13 @@ Limited Spaces: Please note that spaces for this event are limited. Priority wil
 | 10:00-10:30   | **Registration opens and Tea/coffee** | |   Registration open all day |
 | 10:30-12:00   | Optional Workshop | From tissue to FASTQ: Understanding core technologies for spatial transcriptomics | |
 | 12:00-12.55   | **Lunch and Posters** | | |
-| 12:55 - 13.30 |Simon Cockell - Newcastle University | Putting the "space" into spatial transcriptomics: Lessons from computational geography | |
-| 13:30 - 14.45 | **Short talks 1**      | | |
+| 13:00 - 13.40 |Simon Cockell - Newcastle University | Putting the "space" into spatial transcriptomics: Lessons from computational geography | |
+| 13:40 - 14.40 | **Short talks 1**      | | |
 |    | Emily Johnson - University of Liverpool |  Challenges and approaches to analysing NanoString GeoMX spatial transcriptomics data – a case study in adenomyosis | |
 |    | Syed Murtuza Baker - University of Manchester |  Challenges in Spatial Transcriptomics Analysis    | |
 |    | Danielle Taylor - University of York  | TBC  | |
-| 14.45 - 15.15 | **Tea/coffee**  | | |
-| 15.15 - 16.50 | **Short talks 2** | | |
+| 14.40 - 15.10 | **Tea/coffee**  | | |
+| 15.10 - 16.50 | **Short talks 2** | | |
 |    | Xingna Zhang - University of Liverpool | Evaluating the impact of using mobile vaccination units to increase COVID-19 vaccination uptake in Cheshire and Merseyside, UK: a synthetic control analysis | |
 |    | Arief Gusnanto - University of Leeds  | The use of sparse correlation matrices in genomics analysis  | |
 |    | Matthew Teasdale - Newcastle University  | Hiding in plain sight: the genomic analysis of manuscripts | |
