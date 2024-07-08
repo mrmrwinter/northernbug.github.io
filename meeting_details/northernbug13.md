@@ -9,7 +9,6 @@ address: Michael Smith Building Lecture Theatre
 permalink: northernbug13
 ---
 
-# General
 
 We are excited to announce the next Northern BUG meeting, which will be held on Friday 20th September 2024 at the Michael Smith Building in sunny Manchester. The Michael Smith Building is about a 15 minute walk from Oxford Road train station, and about a 30 minute walk from Piccadilly train station. There are regular bus services to and from the train stations (https://www.tfgm.com/plan-a-journey).
  
