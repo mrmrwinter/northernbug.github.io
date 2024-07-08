@@ -11,15 +11,21 @@ permalink: northernbug13
 
 # General
 
-We are thrilled to announce next NorthernBUG meeting which will be held on September 20 at the Michael Smith Building in Manchester. The Michael Smith Building is about 10 minutes walk from Oxford street train station and about 20 minutes walk from Piccadilly train station. There are also regular bus service to and from these two stations.
-
-The meeting will include a talk from Dr Simon Cockell: 'Putting the "space" into spatial transcriptomics: Lessons from computational geography' and an optional morning Workshop: 'Basics of Multi-omics data: technologies and methods'.
-
-Call for Speakers and Poster Presentations: We invite you to contribute to the success of this event by submitting your abstracts for talks [both short talk (20 minutes) and flash talks (5 minutes)] and poster presentations. We are friendly group and this will be an excellent opportunity to get feedback from other bioinformaticians about your research. We particularly welcome abstracts from people wishing to talk about real world bioinformatics issues, help problem solving with a project, or from those looking for feedback at the early stage of a project.
-
-Prizes: To recognize exceptional contributions, we will award £100 for the best talk and the best poster presentations. Your expertise could not only enlighten fellow attendees but also earn you a prize!
-
-Limited Spaces: Please note that spaces for this event are limited. Priority will be given to presenters and those who present or register early. Don't miss out on the chance to be a part of this enriching experience.
+We are excited to announce the next Northern BUG meeting, which will be held on Friday 20th September 2024 at the Michael Smith Building in sunny Manchester. The Michael Smith Building is about a 15 minute walk from Oxford Road train station, and about a 30 minute walk from Piccadilly train station. There are regular bus services to and from the train stations (https://www.tfgm.com/plan-a-journey).
+ 
+# The meeting:
+The event will include a keynote talk from ???: ???', and there is an optional morning workshop ‘Basics of Multi-omics data: technologies and methods’.
+ 
+Call for speakers and poster presentations:
+This event is for everyone. We invite you to contribute to its success by submitting your abstracts for talks (both short 20 minutes talks, and 5 minutes flash talks) and poster presentations.   
+ 
+The BUG is a friendly community and this will be an excellent opportunity to get feedback from other bioinformaticians about your project. We particularly welcome abstracts from people wishing to: talk about real world bioinformatics issues; share methods; problem solve a project; or seeking feedback at the early stage of a project.
+ 
+# Prizes:
+To recognise exceptional contributions, we will award £100 for the best talk and the best poster presentations. Take this opportunity to share your work, you could be a winner!
+ 
+# Limited Spaces:
+Please note that spaces for this event are limited. Priority will be given to presenters and those who register early. Don't delay!
 
 
 
@@ -50,4 +56,4 @@ Limited Spaces: Please note that spaces for this event are limited. Priority wil
 
 
 # Registration
-Secure your spot and register now by following this [registration link]([https://forms.office.com/e/PCM1ikdWU1](https://docs.google.com/forms/d/e/1FAIpQLSeSeWXLyee5Y9w-okz_ZOgoHRNIqWfzjaGrTcRthMDRE30JkA/viewform?usp=sf_link))
+Secure your spot and register now by following this [registration link](https://forms.gle/nQpV2DE4LvuEQheCA)
