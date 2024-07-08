@@ -13,7 +13,7 @@ permalink: northernbug13
 We are excited to announce the next Northern BUG meeting, which will be held on Friday 20th September 2024 at the Michael Smith Building in sunny Manchester. The Michael Smith Building is about a 15 minute walk from Oxford Road train station, and about a 30 minute walk from Piccadilly train station. There are regular bus services to and from the train stations (https://www.tfgm.com/plan-a-journey).
  
 # The meeting:
-The event will include a keynote talk from ???: ???', and there is an optional morning workshop ‘Basics of Multi-omics data: technologies and methods’.
+The event will include a keynote talk from _Prof. Karen Piper hanley: A multi-modal approach to define the patho-architecture and cell state transitions during human liver fibrosis_, and there is an optional morning workshop _Basics of Multi-omics data: technologies and methods_.
  
 Call for speakers and poster presentations:
 This event is for everyone. We invite you to contribute to its success by submitting your abstracts for talks (both short 20 minutes talks, and 5 minutes flash talks) and poster presentations.   
@@ -35,7 +35,7 @@ Please note that spaces for this event are limited. Priority will be given to pr
 | 10:00-10:30   | **Registration opens and Tea/coffee** | |   Registration open all day |
 | 10:30-12:00   | Optional Workshop | Basics of Multi-omics data: technologies and methods | |
 | 12:00-12.55   | **Lunch and Posters** | | |
-| 13:00 - 13.40 |Magnus Rattray - University of Manchester | TBC | |
+| 13:00 - 13.40 | Karen Piper hanley - University of Manchester | A multi-modal approach to define the patho-architecture and cell state transitions during human liver fibrosis | |
 | 13:40 - 14.40 | **Short talks 1**      | | |
 |    | TBC |  TBC | |
 |    | TBC |  TBC    | |
