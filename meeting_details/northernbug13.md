@@ -2,7 +2,7 @@
 layout: meeting
 author: Ian Donaldson, Syed Murtuza Baker & Mudassar Iqbal
 title: NorthernBug 13
-date: 20th September, 2024
+date: __20th September, 2024__
 institute: University of Manchester
 postcode: M13 9NT
 address: Michael Smith Building Lecture Theatre
@@ -10,7 +10,7 @@ permalink: northernbug13
 ---
 
 
-We are excited to announce the next Northern BUG meeting, which will be held on Friday 20th September 2024 at the Michael Smith Building in sunny Manchester. The Michael Smith Building is about a 15 minute walk from Oxford Road train station, and about a 30 minute walk from Piccadilly train station. There are regular bus services to and from the train stations (https://www.tfgm.com/plan-a-journey).
+We are excited to announce the next Northern BUG meeting, which will be held on Friday 20th September 2024 at the Michael Smith Building in sunny Manchester. The Michael Smith Building is about a 15 minute walk from Oxford Road train station, and about a 30 minute walk from Piccadilly train station. There are regular bus services to and from the [train stations](https://www.tfgm.com/plan-a-journey).
  
 # The meeting:
 The event will include a keynote talk from _Prof. Karen Piper hanley: A multi-modal approach to define the patho-architecture and cell state transitions during human liver fibrosis_, and there is an optional morning workshop _Basics of Multi-omics data: technologies and methods_.
