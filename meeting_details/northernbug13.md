@@ -1,7 +1,7 @@
 ---
 layout: meeting
 author: Ian Donaldson, Syed Murtuza Baker & Mudassar Iqbal
-title: NorthernBug 13
+title: NorthernBUG 13
 date: 20th September, 2024
 institute: University of Manchester
 postcode: M13 9NT
