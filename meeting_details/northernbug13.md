@@ -60,4 +60,4 @@ Please note that spaces for this event are limited. Priority will be given to pr
 Secure your spot and register now by following this [registration link](https://forms.gle/nQpV2DE4LvuEQheCA)
 
 # Contact
-For any query please contact [NorthernBUG 13 organizing committee]("mailto:ian.donaldson@manchester.ac.uk, syed.murtuzabaker@manchester.ac.uk, mudassar.iqbal@manchester.ac.uk?subject=NorthernBUG 13 Query")
+For any query please contact <a href="mailto:ian.donaldson@manchester.ac.uk, syed.murtuzabaker@manchester.ac.uk, mudassar.iqbal@manchester.ac.uk?subject=NorthernBUG 13 Query">NorthernBUG 13 organizing committee</a>
