@@ -62,5 +62,5 @@ Secure your spot and register now by following this [registration link](https://
 # Contact
 For any query please contact <a href="mailto:ian.donaldson@manchester.ac.uk, syed.murtuzabaker@manchester.ac.uk, mudassar.iqbal@manchester.ac.uk?subject=NorthernBUG 13 Query">NorthernBUG 13 organizing committee</a>
 
-NorthernBUG 13 is supported by Faculty of Biology, Medicine and Health at University of Manchester <img src="assets/FBMH_logo.jpeg" alt="FBMH_logo" />
+NorthernBUG 13 is supported by Faculty of Biology, Medicine and Health at University of Manchester <img src="../assets/FBMH_logo.jpeg" alt="FBMH_logo" />
 
