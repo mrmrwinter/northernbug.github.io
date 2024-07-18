@@ -64,3 +64,7 @@ For any query please contact <a href="mailto:ian.donaldson@manchester.ac.uk, sye
 
 NorthernBUG 13 is supported by Faculty of Biology, Medicine and Health at University of Manchester <br>  <img src="../assets/FBMH_logo.jpeg" alt="FBMH_logo" />
 
+    <br>
+    <iframe frameBorder="0" src="https://w3w.co/chips.path.motion" width="500"
+            height="500"></iframe>
+
