@@ -28,6 +28,8 @@ To recognise exceptional contributions, we will award £100 for the best talk an
 # Limited Spaces:
 Please note that spaces for this event are limited. Priority will be given to presenters and those who register early. Don't delay!
 
+# Registration:
+Secure your spot and register now by following this [registration link](https://forms.gle/nQpV2DE4LvuEQheCA)
 
 
 # Agenda (provisional):
@@ -55,9 +57,6 @@ Please note that spaces for this event are limited. Priority will be given to pr
 |    | Syed Murtuza Baker - University of Manchester  |    TBC  | |
 | 16.50 - 17.00 | **Prizes**  | | |
 
-
-# Registration:
-Secure your spot and register now by following this [registration link](https://forms.gle/nQpV2DE4LvuEQheCA)
 
 # Contact:
 For any query please contact <a href="mailto:ian.donaldson@manchester.ac.uk, syed.murtuzabaker@manchester.ac.uk, mudassar.iqbal@manchester.ac.uk?subject=NorthernBUG 13 Query">NorthernBUG 13 organizing committee</a>
