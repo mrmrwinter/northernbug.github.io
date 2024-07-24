@@ -56,6 +56,7 @@ Secure your spot and register now by following this [registration link](https://
 |    | TBC  |   TBC | |
 |    | Syed Murtuza Baker - University of Manchester  |    TBC  | |
 | 16.50 - 17.00 | **Prizes**  | | |
+| 17.00 - 19.00 | **Drinks reception**  | | |
 
 
 # Contact:
