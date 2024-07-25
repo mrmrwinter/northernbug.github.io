@@ -60,7 +60,7 @@ Secure your spot and register now by following this [registration link](https://
 
 
 # Contact:
-For any query please contact Ian Donaldson (ian.donaldson@manchester.ac.uk) Syed Murtuza Baker (syed.murtuzabaker@manchester.ac.uk), Mudassar Iqbal (mudassar.iqbal@manchester.ac.uk)
+For any query please contact Ian Donaldson (ian.donaldson@manchester.ac.uk), Syed Murtuza Baker (syed.murtuzabaker@manchester.ac.uk), Mudassar Iqbal (mudassar.iqbal@manchester.ac.uk)
 
 NorthernBUG 13 is supported by Faculty of Biology, Medicine and Health at University of Manchester <br>  <img src="../assets/FBMH_logo.jpeg" alt="FBMH_logo" />
 
