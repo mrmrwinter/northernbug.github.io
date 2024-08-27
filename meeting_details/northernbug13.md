@@ -40,22 +40,22 @@ Secure your spot and register now by following this [registration link](https://
 | 10:30-12:00   | Optional Workshop | Basics of Multi-omics data: technologies and methods | |
 | 12:00-12.55   | **Lunch and Posters** | | |
 | 13:00 - 13.40 | Karen Piper hanley - University of Manchester | A multi-modal approach to define the patho-architecture and cell state transitions during human liver fibrosis | |
-| 13:40 - 14.40 | **Short talks 1**      | | |
+| 13:40 - 15.00 | **Short talks 1**      | | |
 |    | TBC |  TBC | |
 |    | TBC |  TBC    | |
 |    | TBC  | TBC  | |
-| 14:40 - 15.00 | **Flash talks**      | | |
+|    | TBC  | TBC  | |
+| 15:00 - 15.20 | **Flash talks**      | | |
 |    | TBC |  TBC | |
 |    | TBC |  TBC    | |
 |    | TBC  | TBC  | |
-| 15.00 - 15.20 | **Tea/coffee**  | | |
-| 15.20 - 16.50 | **Short talks 2** | | |
+|    | TBC  | TBC  | |
+| 15.20 - 15.40 | **Tea/coffee**  | | |
+| 15.40 - 17.00 | **Short talks 2 & Prizes** | | |
 |    | TBC | TBC | |
 |    | TBC  | TBC  | |
 |    | TBC | TBC | |
 |    | TBC  |   TBC | |
-|    | Syed Murtuza Baker - University of Manchester  |    TBC  | |
-| 16.50 - 17.00 | **Prizes**  | | |
 | 17.00 - 19.00 | **Drinks reception**  | | |
 
 
