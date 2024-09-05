@@ -42,9 +42,9 @@ Secure your spot and register now by following this [registration link](https://
 | 13:00 - 13.40 | Karen Piper hanley - University of Manchester | A multi-modal approach to define the patho-architecture and cell state transitions during human liver fibrosis | |
 | 13:40 - 15.00 | **Short talks 1**      | | |
 |    | TBC |  TBC | |
-|    | TBC |  TBC    | |
-|    | TBC  | TBC  | |
-|    | TBC  | TBC  | |
+|    | Dave Gerrard - University of Manchester |  GenomicLayers - Simple, sequence-anchored simulation of epi-genomes    | |
+|    | Eva Caamaño Gutierrez - University of Liverpool  | Robust Omics Biomarker Identification by Machine Learning – TRUTH or DARE?  | |
+|    | Muhammad Ahtazaz Ahsan - University of Manchester  | Predicting Pathway Expression from Histopathology Images Using Deep Learning  | |
 | 15:00 - 15.20 |   **Tea/coffee**    | | |
 | 15.20 - 15.40 | **Flash talks**  | | |
 |    | TBC |  TBC | |
