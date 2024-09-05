@@ -41,21 +41,21 @@ Secure your spot and register now by following this [registration link](https://
 | 12:00-13.00   | **Lunch and Posters** | | |
 | 13:00 - 13.40 | Karen Piper hanley - University of Manchester | A multi-modal approach to define the patho-architecture and cell state transitions during human liver fibrosis | |
 | 13:40 - 15.00 | **Short talks 1**      | | |
-|    | TBC |  TBC | |
-|    | Dave Gerrard - University of Manchester |  GenomicLayers - Simple, sequence-anchored simulation of epi-genomes    | |
 |    | Eva Caamaño Gutierrez - University of Liverpool  | Robust Omics Biomarker Identification by Machine Learning – TRUTH or DARE?  | |
+|    | Dave Gerrard - University of Manchester |  GenomicLayers - Simple, sequence-anchored simulation of epi-genomes    | |
 |    | Muhammad Ahtazaz Ahsan - University of Manchester  | Predicting Pathway Expression from Histopathology Images Using Deep Learning  | |
+|    | Matthew Birket - University of Manchester  | Understanding the regulation of cell diversity in cardiac differentiation using gene editing and single cell genomics  | |
 | 15:00 - 15.20 |   **Tea/coffee**    | | |
 | 15.20 - 15.40 | **Flash talks**  | | |
-|    | TBC |  TBC | |
-|    | TBC |  TBC    | |
-|    | TBC  | TBC  | |
+|    | William Morgans - University of Manchester |  Scalable joint non-negative matrix factorisation for analysis of paired single cell gene expression and chromatin accessibility data | |
+|    | Matthew Roberts - Cancer Research UK Manchester Institute |  Efficient and transparent analyses with Shiny apps    | |
+|    | Jorge Peinado izaguerri - University of Manchester  | Optimization of peptide selection for absolute protein quantification using QconCATs  | |
 |    | TBC  | TBC  | |
 | 15.40 - 17.00 | **Short talks 2 & Prizes** | | |
-|    | TBC | TBC | |
-|    | TBC  | TBC  | |
-|    | TBC | TBC | |
-|    | TBC  |   TBC | |
+|    | Amin Ali - Cancer Research UK Manchester Institute | Bioinformatic landscape of prostate zones in cancer evolution | |
+|    | Sankari Nagarajan - University of Manchester  | Subtype matters- identification of gene regulatory networks in breast cancers  | |
+|    | Francis Gyapong - University of Nottingham | The effects of environmental metals on the spread of antimicrobial resistance genes in the stickleback skin microbiome | |
+|    | Seung Hyun Lee - Cancer Research UK Manchester Institute  | Integrating histopathology, Co-Detection by Indexing (CODEX) highly multiplexed imaging and computational analysis to create a single cell resolution atlas of human pancreatic cancer development | |
 | 17.00 - 19.00 | **Drinks reception**  | | |
 
 
