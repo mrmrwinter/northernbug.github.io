@@ -15,7 +15,7 @@ We are excited to announce the next Northern BUG meeting, which will be held on 
 The Michael Smith Building is about a 15 minute walk from Oxford Road train station, and about a 30 minute walk from Piccadilly train station. There are regular bus services to and from the [train stations](https://www.tfgm.com/plan-a-journey).
  
 # The meeting:
-The event will include a keynote talk from _Prof. Karen Piper Hanley: 'A multi-modal approach to define the patho-architecture and cell state transitions during human liver fibrosis'_, and there is an optional morning workshop _'Basics of Multi-omics data: technologies and methods'_.
+The event will include a keynote talk from _Prof. Karen Piper-Hanley: 'A multi-modal approach to define the patho-architecture and cell state transitions during human liver fibrosis'_, and there is an optional morning workshop _'Basics of Multi-omics data: technologies and methods'_.
  
 # Call for speakers and poster presentations:
 This event is for everyone. We invite you to contribute to its success by submitting your abstracts for talks (both short 20 minutes talks, and 5 minutes flash talks) and poster presentations.   
@@ -39,7 +39,7 @@ Secure your spot and register now by following this [registration link](https://
 | 10:00-10:30   | **Registration opens and Tea/coffee** | |   Registration open all day |
 | 10:30-12:00   | Optional Workshop | Basics of Multi-omics data: technologies and methods | |
 | 12:00-13.00   | **Lunch and Posters** | | |
-| 13:00 - 13.40 | Karen Piper hanley - University of Manchester | A multi-modal approach to define the patho-architecture and cell state transitions during human liver fibrosis | |
+| 13:00 - 13.40 | Karen Piper-hanley - University of Manchester | A multi-modal approach to define the patho-architecture and cell state transitions during human liver fibrosis | |
 | 13:40 - 15.00 | **Short talks 1**      | | |
 |    | Eva Caamaño Gutierrez - University of Liverpool  | Robust Omics Biomarker Identification by Machine Learning – TRUTH or DARE?  | |
 |    | Dave Gerrard - University of Manchester |  GenomicLayers - Simple, sequence-anchored simulation of epi-genomes    | |
