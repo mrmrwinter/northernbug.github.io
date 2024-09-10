@@ -32,14 +32,14 @@ Please note that spaces for this event are limited. Priority will be given to pr
 Secure your spot and register now by following this [registration link](https://forms.gle/nQpV2DE4LvuEQheCA)
 
 
-# Agenda (provisional):
+# Agenda:
 
 | Time          | Speaker        | Presentation | Information |
 |---------------|----------------|--------------|-------------|
 | 10:00-10:30   | **Registration opens and Tea/coffee** | |   Registration open all day |
 | 10:30-12:00   | Optional Workshop | Basics of Multi-omics data: technologies and methods | |
 | 12:00-13.00   | **Lunch and Posters** | | |
-| 13:00 - 13.40 | Karen Piper-hanley - University of Manchester | A multi-modal approach to define the patho-architecture and cell state transitions during human liver fibrosis | |
+| 13:00 - 13.40 | Karen Piper-Hanley - University of Manchester | A multi-modal approach to define the patho-architecture and cell state transitions during human liver fibrosis | |
 | 13:40 - 15.00 | **Short talks 1**      | | |
 |    | Eva Caamaño Gutierrez - University of Liverpool  | Robust Omics Biomarker Identification by Machine Learning – TRUTH or DARE?  | |
 |    | Dave Gerrard - University of Manchester |  GenomicLayers - Simple, sequence-anchored simulation of epi-genomes    | |
@@ -49,8 +49,7 @@ Secure your spot and register now by following this [registration link](https://
 | 15.20 - 15.40 | **Flash talks**  | | |
 |    | William Morgans - University of Manchester |  Scalable joint non-negative matrix factorisation for analysis of paired single cell gene expression and chromatin accessibility data | |
 |    | Matthew Roberts - Cancer Research UK Manchester Institute |  Efficient and transparent analyses with Shiny apps    | |
-|    | Jorge Peinado izaguerri - University of Manchester  | Optimization of peptide selection for absolute protein quantification using QconCATs  | |
-|    | TBC  | TBC  | |
+|    | Jorge Peinado Izaguerri - University of Manchester  | Optimization of peptide selection for absolute protein quantification using QconCATs  | |
 | 15.40 - 17.00 | **Short talks 2 & Prizes** | | |
 |    | Amin Ali - Cancer Research UK Manchester Institute | Bioinformatic landscape of prostate zones in cancer evolution | |
 |    | Sankari Nagarajan - University of Manchester  | Subtype matters- identification of gene regulatory networks in breast cancers  | |
