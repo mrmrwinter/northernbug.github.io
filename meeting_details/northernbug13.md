@@ -50,6 +50,7 @@ Secure your spot and register now by following this [registration link](https://
 |    | William Morgans - University of Manchester |  Scalable joint non-negative matrix factorisation for analysis of paired single cell gene expression and chromatin accessibility data | |
 |    | Matthew Roberts - Cancer Research UK Manchester Institute |  Efficient and transparent analyses with Shiny apps    | |
 |    | Jorge Peinado Izaguerri - University of Manchester  | Optimization of peptide selection for absolute protein quantification using QconCATs  | |
+|    | Tengyue Zheng - Manchester NHS FOUNDATION TRUST  | Critique of cloud platforms for NGS processing, should we all jump on BOARD?  | |
 | 15.40 - 17.00 | **Short talks 2 & Prizes** | | |
 |    | Amin Ali - Cancer Research UK Manchester Institute | Bioinformatic landscape of prostate zones in cancer evolution | |
 |    | Sankari Nagarajan - University of Manchester  | Subtype matters- identification of gene regulatory networks in breast cancers  | |
