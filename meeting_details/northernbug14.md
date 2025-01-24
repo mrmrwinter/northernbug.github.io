@@ -37,6 +37,10 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 
 # Speakers
 
+[Dr Marina Soares Da Silva](https://www.crick.ac.uk/research/find-a-researcher/marina-soares-da-silva) is a postdoctoral researcher in the [Ancient Genomics Group](https://www.crick.ac.uk/research/labs/pontus-skoglund) at The Crick, where she develops interdisciplinary research at the intersection of genetics, archaeology and history. She uses ancient DNA recovered from skeletal remains from diverse archaeological contexts to study the genetics of past human populations in Britain.
+
+Dr George Foody is a Senior Bioinformatician at the [UK Biobank](https://www.ukbiobank.ac.uk) (more details TBA)
+
 # Registration
 
 Registration form is here: [https://forms.office.com/e/1gGHTnJ8JX](https://forms.office.com/e/1gGHTnJ8JX). Please register and spread the news in your networks!
