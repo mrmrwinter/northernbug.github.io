@@ -30,9 +30,9 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 10:35-11:15 | Dr Marina Soares Da Silva, The Crick  | TBA |  |
 | 11:20-12:00 | Dr George Foody, UK Biobank | TBA |  |
 | 12:00-13:00 | Lunch |  |  |
-| 13:00-14:30 | Talks (paraller) session 1 |  |  |
+| 13:00-14:30 | Talks (parallel) session 1 |  |  |
 | 14:30-15:30 | Tea/coffee break + poster session |  |  |
-| 15:30-17:00 | Talks (paraller) session 2 |  |  |
+| 15:30-17:00 | Talks (parallel) session 2 |  |  |
 | 17:00-17:30 | Closing discussion + pub session | [Warehouse](https://goo.gl/maps/n1vTZ3ZPC1eXnXaX8), 200m from the meeting building :-) |  |
 
 # Speakers
