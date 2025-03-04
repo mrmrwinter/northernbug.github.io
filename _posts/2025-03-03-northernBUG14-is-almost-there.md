@@ -4,7 +4,7 @@ author: Jarek Bryk
 title: nBUG14 is almost there!
 ---
 
-![nBUG14 banner](https://github.com/NorthernBUG/northernbug.github.io/blob/a0ba86619999504efe5c9b9fa8b8896d4b163b52/assets/nbug14_invite.jpeg)
+![nBUG14 banner](https://github.com/NorthernBUG/northernbug.github.io/blob/master/assets/nbug14_invite.jpeg?raw=true)
   
 nBUG14 Deadline for Talk Registrations are Soon! The registrations for the nBUG14 x YUEG are progressing nicely and as of today we are at 52 participants! But we have to let speakers know who's going to give their talk soon, so if you'd like to give a talk at NorthernBUG14 x Yorkshire University Evolutionary Group at the University of Huddersfield on Friday, 28th March, now's your last chance! 🎤
 
@@ -21,5 +21,6 @@ We've been reviewing your submissions, and here's a sneak peek at the applicatio
 🔗 Register / Submit your talk here: https://lnkd.in/dyiqTxiC
 📍 Location: University of Huddersfield (10-minute walk from Huddersfield train station)
 🗓 Date: Friday 28th March 2025.
+
 
                                                                                             
