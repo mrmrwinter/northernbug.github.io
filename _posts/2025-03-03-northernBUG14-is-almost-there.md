@@ -14,9 +14,9 @@ Last but not least, we now have a sponsor - Oxford Nanopore Technologies who wil
 
 We've been reviewing your submissions, and here's a sneak peek at the applications so far! (Thank you to Ophelia Forbes, from the Huddersfield Bioscience Society, who is helping with the organisation of the meeting, for the graphs and the logo 💪 !
 
-![Registrations to nBUG14 over time](https://github.com/NorthernBUG/northernbug.github.io/blob/a0ba86619999504efe5c9b9fa8b8896d4b163b52/assets/NEW_LINKEDIN%20GRAPH%201.png)
+![Registrations to nBUG14 over time](https://github.com/NorthernBUG/northernbug.github.io/blob/master/assets/NEW_LINKEDIN%20GRAPH%201.png?raw=true)
 
-![Career stage breakdown of nBUG14 registrations](https://github.com/NorthernBUG/northernbug.github.io/blob/a0ba86619999504efe5c9b9fa8b8896d4b163b52/assets/NEW_LINKEDIN%20GRAPH%202.png)
+![Career stage breakdown of nBUG14 registrations](https://github.com/NorthernBUG/northernbug.github.io/blob/master/assets/NEW_LINKEDIN%20GRAPH%202.png?raw=true)
                                                                                             
 🔗 Register / Submit your talk here: https://lnkd.in/dyiqTxiC
 📍 Location: University of Huddersfield (10-minute walk from Huddersfield train station)
