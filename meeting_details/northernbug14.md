@@ -31,7 +31,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 11:20-12:00 | Dr George Foody, UK Biobank | TBA |  |
 | 12:00-13:00 | Lunch |  |  |
 | 13:00-14:15 | Clothilde Annabelle	Francois and Rebecca Gullick-Shibata, University of York | Measuring the genetic basis of time perception | PGR |
-| 13:00-14:15 | Surabhi	Ranavat, University of York | Ecological genomics of _Pericopsis elata_ | Postdoc |
+| 13:00-14:15 | Surabhi	Ranavat, University of York | Genomic signatures of inbreeding in a threatened African timber tree species, _Pericopsis elata_ (_Fabaceae_) | Postdoc |
 | 13:00-14:15 | Martin Carr, University of Huddersfield | Selection on both tRNA and mRNA facilitated efficient and accurate protein translation in ancestral eukaryotes | PI |
 | 13:00-14:15 | Rowan Green, University of Manchester | Environmental effects on mutagenesis in microbial populations | Postdoc |
 | 13:00-14:15 | Aggie Trulo, University of Manchester | Practical challenges in breath metabolome analysis | Postdoc |
