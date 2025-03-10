@@ -19,7 +19,7 @@ The meeting will take place in the Division of Biomedical and Life Sciences, Uni
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d254.7189472544998!2d-1.7793714549217128!3d53.64293718480601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe62c355275c8c19e!2zNTPCsDM4JzM0LjYiTiAxwrA0Nic0NS4zIlc!5e0!3m2!1sen!2suk!4v1667813529532!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-# Preliminary Agenda
+# Agenda
 
 If you have a suggestion you'd like us (or organisers of the next meeting) to take on board, let us know!
 
@@ -30,9 +30,18 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 10:35-11:15 | Dr Marina Soares Da Silva, The Crick  | TBA |  |
 | 11:20-12:00 | Dr George Foody, UK Biobank | TBA |  |
 | 12:00-13:00 | Lunch |  |  |
-| 13:00-14:30 | Talks (parallel) session 1 |  |  |
-| 14:30-15:30 | Tea/coffee break + poster session |  |  |
-| 15:30-17:00 | Talks (parallel) session 2 |  |  |
+| 13:00-14:15 | Clothilde Annabelle	Francois and Rebecca Gullick-Shibata, University of York | Measuring the genetic basis of time perception | PGR |
+| 13:00-14:15 | Surabhi	Ranavat, University of York | Ecological genomics of _Pericopsis elata_ | Postdoc |
+| 13:00-14:15 | Martin Carr, University of Huddersfield | Selection on both tRNA and mRNA facilitated efficient and accurate protein translation in ancestral eukaryotes | PI |
+| 13:00-14:15 | Rowan Green, University of Manchester | Environmental effects on mutagenesis in microbial populations | Postdoc |
+| 13:00-14:15 | Aggie Trulo, University of Manchester | Practical challenges in breath metabolome analysis | Postdoc |
+| 14:15-14:20 | Oxford Nanopore sponsor talk |  |  |
+| 14:20-15:50 | Tea/coffee break + poster session | Poster session is long as we have quite a few posters (n = 16) |  |
+| 15:50-17:00 | Andrew Mason, University of York | Biologically-informed machine learning identifies a new clinically-actionable bladder cancer subgroup | PI |
+| 15:50-17:00 | Syed Murtuza Baker, University of Manchester | Challenges and approaches to spatial transcriptomics analysis | Postdoc |
+| 15:50-17:00 | Mingkai	Wang, University of Bradford | Predicting thermostable properties of proteins | PGR |
+| 15:50-17:00 | Ophelia Forbes, University of Huddersfield | Computational analysis of human protein atlas antibody intensities in healthy and cancerous tissues | UG |
+| 15:50-17:00 | Dave Lunt, University of Hull | Bioinformatics at Hull: tales from the real world | PI |
 | 17:00-17:30 | Closing discussion + pub session | [Warehouse](https://goo.gl/maps/n1vTZ3ZPC1eXnXaX8), 200m from the meeting building :-) |  |
 
 # Speakers
