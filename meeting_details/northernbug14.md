@@ -38,7 +38,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 14:15-14:20 | Oxford Nanopore sponsor talk |  |  |
 | 14:20-15:50 | Tea/coffee break + poster session | Poster session is long as we have quite a few posters (n = 16) |  |
 | 15:50-17:00 | Andrew Mason, University of York | Biologically-informed machine learning identifies a new clinically-actionable bladder cancer subgroup | PI |
-| 15:50-17:00 | Syed Murtuza Baker, University of Manchester | Challenges and approaches to spatial transcriptomics analysis | Postdoc |
+| 15:50-17:00 | Syed Murtuza Baker, University of Manchester | Challenges and approaches to spatial transcriptomics analysis | PI |
 | 15:50-17:00 | Mingkai	Wang, University of Bradford | Predicting thermostable properties of proteins | PGR |
 | 15:50-17:00 | Ophelia Forbes, University of Huddersfield | Computational analysis of human protein atlas antibody intensities in healthy and cancerous tissues | UG |
 | 15:50-17:00 | Dave Lunt, University of Hull | Bioinformatics at Hull: tales from the real world | PI |
