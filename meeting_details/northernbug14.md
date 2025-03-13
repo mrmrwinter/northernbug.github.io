@@ -28,7 +28,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 10:00 | Registration + tea/coffee |  |  |
 | 10:30 | Welcome |  |  |
 | 10:35-11:15 | Dr Marina Soares Da Silva, The Crick  | TBA |  |
-| 11:20-12:00 | Dr George Foody, UK Biobank | TBA |  |
+| 11:20-12:00 | Dr George Foody, UK Biobank | Introduction to UK Biobank Research Analysis Platform |  |
 | 12:00-13:00 | Lunch |  |  |
 | 13:00-14:15 | Clothilde Annabelle	Francois and Rebecca Gullick-Shibata, University of York | Measuring the genetic basis of time perception | PGR |
 | 13:00-14:15 | Surabhi	Ranavat, University of York | Genomic signatures of inbreeding in a threatened African timber tree species, _Pericopsis elata_ (_Fabaceae_) | Postdoc |
