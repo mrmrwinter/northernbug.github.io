@@ -34,7 +34,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 13:00-14:15 | Surabhi	Ranavat, University of York | Genomic signatures of inbreeding in a threatened African timber tree species, _Pericopsis elata_ (_Fabaceae_) | Postdoc |
 | 13:00-14:15 | Martin Carr, University of Huddersfield | Selection on both tRNA and mRNA facilitated efficient and accurate protein translation in ancestral eukaryotes | PI |
 | 13:00-14:15 | Rowan Green, University of Manchester | Environmental effects on mutagenesis in microbial populations | Postdoc |
-| 13:00-14:15 | Aggie Trulo, University of Manchester | Practical challenges in breath metabolome analysis | Postdoc |
+| 13:00-14:15 | Aggie Turlo, University of Manchester | Practical challenges in breath metabolome analysis | Postdoc |
 | 14:15-14:20 | Oxford Nanopore sponsor talk |  |  |
 | 14:20-15:50 | Tea/coffee break + poster session | Poster session is long as we have quite a few posters (n = 16) |  |
 | 15:50-17:00 | Andrew Mason, University of York | Biologically-informed machine learning identifies a new clinically-actionable bladder cancer subgroup | PI |
