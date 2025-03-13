@@ -11,7 +11,7 @@ permalink: northernbug14
 
 # General
 
-THE organising committee for nothernBUG14 is Dr Jarek Bryk (nBUG part), Dr Martin Carr (YUEG part), Dr Maria Pala and members of the students' Bioscience Society. Emails should be directed to Jarek at j.bryk@hud.ac.uk.
+THE organising committee for nothernBUG14 is Dr Jarek Bryk (nBUG part), Dr Martin Carr (YUEG part), Dr Maria Pala and Ophelia Forbes with members of the students' Bioscience Society. Emails should be directed to Jarek at j.bryk@hud.ac.uk.
 
 This time we are trying something new - nBUG14 will be held jointly with a revival of the Yorkshire Universities Evolutionary Group (YUEG) meeting, the latter taking place for the first time since 2019! The order of the day will remain unchanged, except that there will be two parallel talks sessions, each more focused on the audience for nBUG or YUEG. During registration, you will have an option of choosing which group you fell more affiliated with (or both, as we suspect that many participants will be in the middle of the nBUG/YUEG Venn diagram).
 
