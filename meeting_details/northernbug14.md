@@ -27,22 +27,23 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 |---------------|---------|--------------|-------------|
 | 10:00 | Registration + tea/coffee |  |  |
 | 10:30 | Welcome |  |  |
-| 10:35-11:15 | Dr Marina Soares Da Silva, The Crick  | TBA |  |
+| 10:35-11:15 | Dr Marina Soares Da Silva, The Crick  | Modern science from old bones: challenges and applications of ancient
+genomics |  |
 | 11:20-12:00 | Dr George Foody, UK Biobank | Introduction to UK Biobank Research Analysis Platform |  |
 | 12:00-13:00 | Lunch |  |  |
-| 13:00-14:15 | Clothilde Annabelle	Francois and Rebecca Gullick-Shibata, University of York | Measuring the genetic basis of time perception | PGR |
+| 13:00-14:15 | Clothilde Annabelle	Francois, Rebecca Gullick-Shibata and Gagan Vishaya, University of York | New Ara-BOX-cis v2 trained on a single nucleus RNA-seq atlas across eight plant developmental stages | PGR |
 | 13:00-14:15 | Surabhi	Ranavat, University of York | Genomic signatures of inbreeding in a threatened African timber tree species, _Pericopsis elata_ (_Fabaceae_) | Postdoc |
 | 13:00-14:15 | Martin Carr, University of Huddersfield | Selection on both tRNA and mRNA facilitated efficient and accurate protein translation in ancestral eukaryotes | PI |
 | 13:00-14:15 | Rowan Green, University of Manchester | Environmental effects on mutagenesis in microbial populations | Postdoc |
 | 13:00-14:15 | Aggie Turlo, University of Manchester | Practical challenges in breath metabolome analysis | Postdoc |
-| 14:15-14:20 | Oxford Nanopore sponsor talk |  |  |
-| 14:20-15:50 | Tea/coffee break + poster session | Poster session is long as we have quite a few posters (n = 16) |  |
-| 15:50-17:00 | Andrew Mason, University of York | Biologically-informed machine learning identifies a new clinically-actionable bladder cancer subgroup | PI |
-| 15:50-17:00 | Syed Murtuza Baker, University of Manchester | Challenges and approaches to spatial transcriptomics analysis | PI |
-| 15:50-17:00 | Mingkai	Wang, University of Bradford | Predicting thermostable properties of proteins | PGR |
-| 15:50-17:00 | Ophelia Forbes, University of Huddersfield | Computational analysis of human protein atlas antibody intensities in healthy and cancerous tissues | UG |
-| 15:50-17:00 | Dave Lunt, University of Hull | Bioinformatics at Hull: tales from the real world | PI |
-| 17:00-17:30 | Closing discussion + pub session | [Warehouse](https://goo.gl/maps/n1vTZ3ZPC1eXnXaX8), 200m from the meeting building :-) |  |
+| 14:15-14:25 | Oxford Nanopore sponsor talk |  |  |
+| 14:30-16:00 | Tea/coffee break + poster session | Poster session is long as we have quite a few posters |  |
+| 16:00-17:15 | Andrew Mason, University of York | Biologically-informed machine learning identifies a new clinically-actionable bladder cancer subgroup | PI |
+| 16:00-17:15 | Syed Murtuza Baker, University of Manchester | Challenges and approaches to spatial transcriptomics analysis | PI |
+| 16:00-17:15 | Mingkai	Wang, University of Bradford | Predicting thermostable properties of proteins | PGR |
+| 16:00-17:15 | Ophelia Forbes, University of Huddersfield | Computational analysis of human protein atlas antibody intensities in healthy and cancerous tissues | UG |
+| 16:00-17:15 | Dave Lunt, University of Hull | Bioinformatics at Hull: tales from the real world | PI |
+| 17:15-17:30 | Closing remarks + pub session | [Warehouse](https://goo.gl/maps/n1vTZ3ZPC1eXnXaX8), 200m from the meeting building :-) |  |
 
 # Speakers
 
@@ -52,4 +53,4 @@ Dr George Foody is a Senior Bioinformatician at the [UK Biobank](https://www.ukb
 
 # Registration
 
-Registration form is here: [https://forms.office.com/e/1gGHTnJ8JX](https://forms.office.com/e/1gGHTnJ8JX). Please register and spread the news in your networks!
+Registration is now closed.
