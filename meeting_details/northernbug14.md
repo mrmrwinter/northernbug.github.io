@@ -21,6 +21,8 @@ The meeting will take place in the Division of Biomedical and Life Sciences, Uni
 
 # Agenda
 
+[The most recent agenda file with abstracts is available to download here.](files/nbug14_agenda_final3_2025-03-24.pdf)
+
 If you have a suggestion you'd like us (or organisers of the next meeting) to take on board, let us know!
 
 | Time          | Speaker | Presentation | Information |
