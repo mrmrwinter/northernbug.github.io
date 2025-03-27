@@ -27,18 +27,18 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 
 | Time          | Speaker | Presentation | Information |
 |---------------|---------|--------------|-------------|
-| 10:00 | Registration + tea/coffee |  |  |
-| 10:30 | Welcome |  |  |
+| 10:00 | Registration + tea/coffee |  | Room JPSG/31 |
+| 10:30 | Welcome |  | Room JPSG/18 |
 | 10:35-11:15 | Dr Marina Soares Da Silva, The Crick  | Modern science from old bones: challenges and applications of ancient genomics |  |
 | 11:20-12:00 | Dr George Foody, UK Biobank | Introduction to UK Biobank Research Analysis Platform |  |
-| 12:00-13:00 | Lunch |  |  |
+| 12:00-13:00 | Lunch |  | Room JPSG/31 |
 | 13:00-14:15 | Clothilde Annabelle	Francois, Rebecca Gullick-Shibata and Gagan Vishaya, University of York | New Ara-BOX-cis v2 trained on a single nucleus RNA-seq atlas across eight plant developmental stages | PGR |
 | 13:00-14:15 | Surabhi	Ranavat, University of York | Genomic signatures of inbreeding in a threatened African timber tree species, _Pericopsis elata_ (_Fabaceae_) | Postdoc |
 | 13:00-14:15 | Martin Carr, University of Huddersfield | Selection on both tRNA and mRNA facilitated efficient and accurate protein translation in ancestral eukaryotes | PI |
 | 13:00-14:15 | Rowan Green, University of Manchester | Environmental effects on mutagenesis in microbial populations | Postdoc |
 | 13:00-14:15 | Aggie Turlo, University of Manchester | Practical challenges in breath metabolome analysis | Postdoc |
 | 14:15-14:25 | Oxford Nanopore sponsor talk |  |  |
-| 14:30-16:00 | Tea/coffee break + poster session | Poster session is long as we have quite a few posters |  |
+| 14:30-16:00 | Tea/coffee break + poster session | Poster session is long as we have quite a few posters | Room JPSG/31 |
 | 16:00-17:15 | Andrew Mason, University of York | Biologically-informed machine learning identifies a new clinically-actionable bladder cancer subgroup | PI |
 | 16:00-17:15 | Syed Murtuza Baker, University of Manchester | Challenges and approaches to spatial transcriptomics analysis | PI |
 | 16:00-17:15 | Mingkai	Wang, University of Bradford | Predicting thermostable properties of proteins | PGR |
