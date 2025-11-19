@@ -22,9 +22,9 @@
 
 - name: Mark Dunning
   github: markdunning
-  institute: Sheffield Bioinformatics Core
-  email: m.j.dunning@sheffield.ac.uk
-  website: http://sbc.shef.ac.uk/
+  institute: Freelance / seeking work
+  email: mark@mdbioinformatics.com
+  website: http://mdbioinformatics.com
   twitter: DrMarkDunning
   interests: Bioconductor, R, RNA-seq, Training
 
@@ -334,6 +334,7 @@
   github: lquayle88
   website: www.lewisdoesdata.com
   interests: Cancer dormancy and therapy resistance, multi-omics, machine learning, R and Python
+  
 - name: Chinedu Anene
   institute: LeedS Beckett University
   email: C.A.Anene@leedsbeckett.ac.uk
