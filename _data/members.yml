@@ -286,7 +286,7 @@
 - name: Michael Winter
   github: mrmrwinter
   institute: University of Hull
-  email: m.r.winter@2016.hull.ac.uk
+  email: mrmrwinter@gmail.com
   twitter: mrmrwinter
   interests: Comparative genomics, evolution, phylogenomics, and reproducible bioinformatics. Triopsidae and Nematoda.
 
@@ -334,3 +334,10 @@
   github: lquayle88
   website: www.lewisdoesdata.com
   interests: Cancer dormancy and therapy resistance, multi-omics, machine learning, R and Python
+- name: Chinedu Anene
+  institute: LeedS Beckett University
+  email: C.A.Anene@leedsbeckett.ac.uk
+  website: 	https://www.leedsbeckett.ac.uk/staff/dr-chinedu-anene/
+  twitter: caanenedr
+  github: AneneLab
+  interests: Bioinformatics, Digitial pathology, ncRNA, Aging, Oncovirology
